@@ -1,0 +1,29 @@
+.select-set{
+    border: solid;
+    border-color: red;
+    border-radius: 8px;
+    width: 300px;
+    height: 150px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.index img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.index a {
+    color: white;
+    text-decoration: none;
+}
+
+.index h1 {
+    font-size: 36pt;
+    text-shadow: 2px 2px 1px #000,
+                 -2px -2px 1px #000,
+                 -2px 2px 1px #000,
+                  2px -2px 1px #000;
+}

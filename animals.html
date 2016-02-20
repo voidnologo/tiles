@@ -1,0 +1,22 @@
+---
+layout: page
+title:  Animals
+set: animals
+---
+
+<section id="contact">
+  <div class="container">
+    <div class="row">
+      {% for item in site.data.animals %}
+        <div class="col-lg-3 col-md-3 col-sm-2">
+          <div class="tiles card-container">
+            <div class="card">
+            <div class="side"><img src="/images/tilesets/{{ page.set }}/{{ item.file_name }}" alt="{{ item.name }}"></div>
+            <div class="side back">{{ item.name }}</div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

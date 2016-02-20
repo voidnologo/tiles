@@ -1,0 +1,17 @@
+- name: CAT
+  file_name: cat.jpg
+
+- name: DOG
+  file_name: dog.jpg
+
+- name: BIRD
+  file_name: bird.gif
+
+- name: ELEPHANT
+  file_name: elephant.png
+
+- name: FISH
+  file_name: fish.png
+
+- name: ALLIGATOR
+  file_name: gator.png

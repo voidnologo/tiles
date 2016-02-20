@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Tiles
+email: void.no.logo@icloud.com
+description: > # this means to ignore newlines until "baseurl:"
+    Children's tile game to learn words
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://voidnologo.com" # the base hostname & protocol for your site
+twitter_username: voidnologo
+github_username:  voidnologo
+author: voidnologo
+
+# Build settings
+markdown: kramdown
