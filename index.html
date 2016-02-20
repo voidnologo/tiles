@@ -8,12 +8,11 @@ layout: default
     <div class="row">
       {% for set in site.data.index %}
         <div class="col-lg-4">
-          <div class="select-set" style="background: url('/images/index/{{ set.pic }}'); background-size: cover;">
-            <a href="{{ set.link | prepend: site.baseurl }}">
-                  <h1>{{ set.name }}</h1>
-              </div>
-            </a>
-          </div>
+          <a href="{{ set.link | prepend: site.baseurl }}">
+            <div class="select-set" style="background: url('/images/index/{{ set.pic }}'); background-size: cover;">
+                <h1>{{ set.name }}</h1>
+            </div>
+          </a>
         </div>
       {% endfor %}
     </div>

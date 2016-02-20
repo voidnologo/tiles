@@ -1,7 +1,11 @@
 - name: Animals
-  pic: animals.jpg
+  pic: animals.png
   link: animals.html
 
 - name: Dinosaurs
-  pic: dinosaurs.jpg
+  pic: dinosaurs.png
   link: dinos.html
+
+- name: Numbers
+  pic: numbers.png
+  link: numbers.html

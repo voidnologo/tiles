@@ -1,11 +1,11 @@
 - name: CAT
-  file_name: cat.jpg
+  file_name: cat.png
 
 - name: DOG
   file_name: dog.png
 
 - name: BIRD
-  file_name: bird.gif
+  file_name: bird.png
 
 - name: ELEPHANT
   file_name: elephant.png
