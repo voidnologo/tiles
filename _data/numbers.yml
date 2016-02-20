@@ -1,0 +1,17 @@
+- name:  1
+  file_name: one.png
+
+- name: 2
+  file_name: two.png
+
+- name: 3
+  file_name: three.png
+
+- name: 4
+  file_name: four.png
+
+- name: 5
+  file_name: five.png
+
+- name: 6
+  file_name: six.png
