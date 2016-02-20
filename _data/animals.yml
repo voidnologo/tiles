@@ -2,7 +2,7 @@
   file_name: cat.jpg
 
 - name: DOG
-  file_name: dog.jpg
+  file_name: dog.png
 
 - name: BIRD
   file_name: bird.gif

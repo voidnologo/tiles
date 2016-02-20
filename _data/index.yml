@@ -1,2 +1,7 @@
 - name: Animals
   pic: animals.jpg
+  link: animals.html
+
+- name: Dinosaurs
+  pic: dinosaurs.jpg
+  link: dinos.html
