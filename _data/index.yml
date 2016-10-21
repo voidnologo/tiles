@@ -13,3 +13,7 @@
 - name: IMT Team
   pic: imt.png
   link: imt.html
+
+- name: Imt CS
+  pic: imt_cs.png
+  link: imt_cs.html
