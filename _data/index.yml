@@ -9,3 +9,7 @@
 - name: Numbers
   pic: numbers.png
   link: numbers.html
+
+- name: IMT Team
+  pic: imt.png
+  link: imt.html
